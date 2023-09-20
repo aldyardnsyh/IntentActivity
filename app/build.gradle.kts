@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.intentactivity"
+    namespace = "com.example.intentregisterlogin"
     compileSdk = 33
 
     buildFeatures {
@@ -12,7 +12,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.example.intentactivity"
+        applicationId = "com.example.intentregisterlogin"
         minSdk = 24
         targetSdk = 33
         versionCode = 1

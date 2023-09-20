@@ -13,6 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "IntentActivity"
+rootProject.name = "IntentRegisterLogin"
 include(":app")
- 

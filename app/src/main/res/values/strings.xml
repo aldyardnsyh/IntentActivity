@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">IntentActivity</string>
+    <string name="app_name">IntentRegisterLogin</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_name">Username</string>
+    <string name="hint_phone">Phone</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="register">Register</string>
+    <string name="checkbox_tac">By checking the box you agree to our Terms and Conditions.</string>
+    <string name="already_have_an_account">Already Have an Account? Log In</string>
+    <string name="homepage">Homepage</string>
+    <string name="logout">Logout</string>
 </resources>

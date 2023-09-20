@@ -1,4 +1,4 @@
-package com.example.intentactivity
+package com.example.intentregisterlogin
 
 import org.junit.Test
 
